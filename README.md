@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📚 Book Finder App
 
 A modern React-based web application that allows users to search books quickly using the Open Library API.
@@ -79,3 +80,6 @@ Developed by: Logeshwari S
 🌙 Add light/dark mode toggle
 
 💾 Save favorites using local storage or backend
+=======
+# Book_Finder_App
+>>>>>>> fdcd77fb55cf9b6fb20d72667423fb9dd54d297a
