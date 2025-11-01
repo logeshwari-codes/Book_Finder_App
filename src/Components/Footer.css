@@ -1,0 +1,21 @@
+.footer {
+  background: #002b5b;
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+  font-size: 0.9rem;
+  letter-spacing: 0.5px;
+}
+
+.footer p {
+  margin: 0;
+}
+
+.footer span {
+  color: #00c6ff;
+}
+.book-card:hover {
+  transform: translateY(-5px);
+  transition: 0.3s ease;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+}
